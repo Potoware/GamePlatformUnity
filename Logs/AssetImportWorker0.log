@@ -1,0 +1,415 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Enterprise; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 16157 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/apotosi/apotosimo
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49231
+Successfully changed project path to: C:/Users/apotosi/apotosimo
+C:/Users/apotosi/apotosimo
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 94.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/apotosi/apotosimo/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics (ID=0x9b41)
+    Vendor:   
+    VRAM:     8078 MB
+    Driver:   27.20.100.8935
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56948
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005154 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 159.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.494 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002800 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 129.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.399 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1820 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.9 MB.
+System memory in use after: 86.0 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 4.350200 ms (FindLiveObjects: 0.440300 ms CreateObjectMapping: 0.156900 ms MarkObjects: 3.593200 ms  DeleteObjects: 0.157300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/Materials/Idle.mat
+  artifactKey: Guid(3b8b67d8b5c77cc4ca77a9155e6a6f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/Materials/Idle.mat using Guid(3b8b67d8b5c77cc4ca77a9155e6a6f17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f6609a8c8034ddd83f06cbb96fe6c6') in 0.180723 seconds
+  Import took 0.186329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/Materials
+  artifactKey: Guid(e286456050f3feb43809122623a8c5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/Materials using Guid(e286456050f3feb43809122623a8c5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4699db11cac4dd9466ab93fb8bd5e9b7') in 0.008677 seconds
+  Import took 0.015497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001215 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/Enemy
+  artifactKey: Guid(5399e4a914f8d1949b543eafdb2be7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/Enemy using Guid(5399e4a914f8d1949b543eafdb2be7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '265214f9349734a549e3b2927a9ba2ce') in 0.011761 seconds
+  Import took 0.017300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.658472 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Items/Boxes/Background/Materials
+  artifactKey: Guid(a447a09f28c414c4c88e1b27d1add967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Items/Boxes/Background/Materials using Guid(a447a09f28c414c4c88e1b27d1add967) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af48115de5e5dd67853bc61a06f34a04') in 0.004302 seconds
+  Import took 0.010074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.859428 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_08.asset
+  artifactKey: Guid(bb5a6a81c09a45e4499b911ac9719ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_08.asset using Guid(bb5a6a81c09a45e4499b911ac9719ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e98b23da966bb2d92fe214790f483d1') in 0.044380 seconds
+  Import took 0.050001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_10.asset
+  artifactKey: Guid(aaab20c72fb304648813bf11f81ce244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_10.asset using Guid(aaab20c72fb304648813bf11f81ce244) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87318760ea942b46daa62f1e86a99835') in 0.015675 seconds
+  Import took 0.021451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_09.asset
+  artifactKey: Guid(cc06b3225c0c13a4cbf7619e692b8f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_09.asset using Guid(cc06b3225c0c13a4cbf7619e692b8f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9ee88eae94a4e5b7e263b612705c1f') in 0.023417 seconds
+  Import took 0.030302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000640 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_08.asset
+  artifactKey: Guid(bb5a6a81c09a45e4499b911ac9719ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_08.asset using Guid(bb5a6a81c09a45e4499b911ac9719ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e98b23da966bb2d92fe214790f483d1') in 0.008525 seconds
+  Import took 0.014421 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.155680 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_11.asset
+  artifactKey: Guid(d506e4efdcf2d4046b20c8aed399cdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_11.asset using Guid(d506e4efdcf2d4046b20c8aed399cdc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '028a844445579041e61486e9780c3872') in 0.020432 seconds
+  Import took 0.025942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_13.asset
+  artifactKey: Guid(cd881eec9892a1f42b55c74bbf37eebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_13.asset using Guid(cd881eec9892a1f42b55c74bbf37eebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e6ed54c42bec57cd09e401629b4bc5') in 0.015165 seconds
+  Import took 0.021390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_12.asset
+  artifactKey: Guid(3d471fc91b2779c458b33ff4e1cbea7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_12.asset using Guid(3d471fc91b2779c458b33ff4e1cbea7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a2a097e175abf134656496e4a406ef') in 0.020493 seconds
+  Import took 0.027768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_15.asset
+  artifactKey: Guid(e56b9a5eced0fbf4b9a73ce54e83fb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_15.asset using Guid(e56b9a5eced0fbf4b9a73ce54e83fb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46e97e31390db3bff9a7e610952e69c0') in 0.015472 seconds
+  Import took 0.021744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_16.asset
+  artifactKey: Guid(219da3744c8530a44952c10c89ec4825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_16.asset using Guid(219da3744c8530a44952c10c89ec4825) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4e311e47e18b8ef200780538a56568') in 0.018936 seconds
+  Import took 0.023980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_14.asset
+  artifactKey: Guid(40181fc7df377c543b1e82eed6716571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_14.asset using Guid(40181fc7df377c543b1e82eed6716571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47da18aff2c8ca37514c3ef21fc57424') in 0.017914 seconds
+  Import took 0.023928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_19.asset
+  artifactKey: Guid(602f8f39e1e7ad7408b1c42491b5968b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_19.asset using Guid(602f8f39e1e7ad7408b1c42491b5968b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67aff707f4a3e1e2df6c0ca59625443d') in 0.015079 seconds
+  Import took 0.020495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_18.asset
+  artifactKey: Guid(fd85bedd7dc132f46b21beac167ca67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_18.asset using Guid(fd85bedd7dc132f46b21beac167ca67a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e984af7c3308fbb82603e42dc5400d88') in 0.018553 seconds
+  Import took 0.022973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_17.asset
+  artifactKey: Guid(b354eedc241e0d94ab371ea5c03631ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_17.asset using Guid(b354eedc241e0d94ab371ea5c03631ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb3203dc2bd74212cbd897cf061545d') in 0.014721 seconds
+  Import took 0.019637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.324907 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_20.asset
+  artifactKey: Guid(55cc3c8e245de9b4882acd24d068c0d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_20.asset using Guid(55cc3c8e245de9b4882acd24d068c0d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0fe1e77c6bf3702541305f80aa145fb') in 0.022702 seconds
+  Import took 0.029413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000393 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_21.asset
+  artifactKey: Guid(6e299ba3ab9f2b146a2c241e9503ca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_21.asset using Guid(6e299ba3ab9f2b146a2c241e9503ca2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '954f0f82caa045a31e652de4f8580bde') in 0.015569 seconds
+  Import took 0.020115 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_22.asset
+  artifactKey: Guid(00ad1c1e64d390442814d6868786b1b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_22.asset using Guid(00ad1c1e64d390442814d6868786b1b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74653807ae5c9ebbbcdb4c149e73bd21') in 0.019392 seconds
+  Import took 0.024938 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_24.asset
+  artifactKey: Guid(8eaa72868256e2a4d8be9c6d8f2d1c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_24.asset using Guid(8eaa72868256e2a4d8be9c6d8f2d1c60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2588d53b4acdcfc54ceb02e388229e73') in 0.016086 seconds
+  Import took 0.020507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_23.asset
+  artifactKey: Guid(863831b7abbe0cc4a9172bd32cac7ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_23.asset using Guid(863831b7abbe0cc4a9172bd32cac7ba8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ead5029b173240ac4b2748426a2b8a') in 0.014987 seconds
+  Import took 0.019711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_25.asset
+  artifactKey: Guid(2ce67a63499d4be44ad036e800d634c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_25.asset using Guid(2ce67a63499d4be44ad036e800d634c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a175138b0478367fe89ad80b2b54a427') in 0.018076 seconds
+  Import took 0.026079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001057 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_28.asset
+  artifactKey: Guid(e92be7f3371eca8408fb03b52a87aa9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_28.asset using Guid(e92be7f3371eca8408fb03b52a87aa9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcd2db01e33299cfa653285d9e35bf8') in 0.015462 seconds
+  Import took 0.021119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000382 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_26.asset
+  artifactKey: Guid(bd5e8f5f5c3f51746b83f3a4a13f83d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_26.asset using Guid(bd5e8f5f5c3f51746b83f3a4a13f83d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e245d849aea6b7868b723d712dc94c') in 0.017249 seconds
+  Import took 0.021968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_27.asset
+  artifactKey: Guid(7b8c06f0da0ed3f46b9cc9ab41b5de11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_27.asset using Guid(7b8c06f0da0ed3f46b9cc9ab41b5de11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56afe1709efdc82d894b1c1946f306e3') in 0.014431 seconds
+  Import took 0.020546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.955767 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_29.asset
+  artifactKey: Guid(44a9bc5724f617147ab9771afd699459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_29.asset using Guid(44a9bc5724f617147ab9771afd699459) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd038c2c4b82324f96a16c80f953793f8') in 0.028514 seconds
+  Import took 0.038419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_31.asset
+  artifactKey: Guid(40f4de4c9a2a5f740b8a41a96cb83ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_31.asset using Guid(40f4de4c9a2a5f740b8a41a96cb83ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19daa03e25e02f080bb156a552928561') in 0.031681 seconds
+  Import took 0.039812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000509 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_30.asset
+  artifactKey: Guid(50b8d9f17d5d200428e5a476fc52230d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_30.asset using Guid(50b8d9f17d5d200428e5a476fc52230d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '058fc5d1e6eff7c22c42b8c3d1ff9754') in 0.030560 seconds
+  Import took 0.038184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009242 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_31.asset
+  artifactKey: Guid(40f4de4c9a2a5f740b8a41a96cb83ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_31.asset using Guid(40f4de4c9a2a5f740b8a41a96cb83ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19daa03e25e02f080bb156a552928561') in 0.017547 seconds
+  Import took 0.026225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000472 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_33.asset
+  artifactKey: Guid(015c2e13475fbd6499dd03412ef35a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_33.asset using Guid(015c2e13475fbd6499dd03412ef35a57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f171b600e648fe3e08ab4fff064321') in 0.037806 seconds
+  Import took 0.049321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_34.asset
+  artifactKey: Guid(f35bcf852559ff24da7d898cc13d4845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_34.asset using Guid(f35bcf852559ff24da7d898cc13d4845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b74a401afd9790d39614992f41f738ac') in 0.030999 seconds
+  Import took 0.041330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000609 seconds.
+  path: Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_32.asset
+  artifactKey: Guid(cd457ab6657514245848978d78cd6e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pixel Adventure 1/Assets/Main Characters/IronMan/TileSet/IndustrialTile_32.asset using Guid(cd457ab6657514245848978d78cd6e5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d200d85af58603d6ea9a15f6adddd22') in 0.032884 seconds
+  Import took 0.043425 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002690 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.809 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2316.
+Total: 2.785100 ms (FindLiveObjects: 0.246700 ms CreateObjectMapping: 0.085800 ms MarkObjects: 2.320500 ms  DeleteObjects: 0.130700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001074 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.963 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 2.438000 ms (FindLiveObjects: 0.306100 ms CreateObjectMapping: 0.106500 ms MarkObjects: 1.942600 ms  DeleteObjects: 0.081100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001067 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.492 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 3.898700 ms (FindLiveObjects: 0.342100 ms CreateObjectMapping: 0.140800 ms MarkObjects: 3.277000 ms  DeleteObjects: 0.137000 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.3 MB.
+System memory in use after: 53.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 4.733400 ms (FindLiveObjects: 0.372300 ms CreateObjectMapping: 0.185300 ms MarkObjects: 4.035600 ms  DeleteObjects: 0.138500 ms)
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.3 MB.
+System memory in use after: 53.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 4.279700 ms (FindLiveObjects: 0.358000 ms CreateObjectMapping: 0.139800 ms MarkObjects: 3.606100 ms  DeleteObjects: 0.172900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

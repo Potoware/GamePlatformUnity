@@ -1,0 +1,4572 @@
+fileFormatVersion: 2
+guid: 65758a0e20fbbdf4fb97b79631382a16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 718113944771329257
+    second: Terrain OtherColor_0
+  - first:
+      213: 1351451162168720916
+    second: Terrain OtherColor_1
+  - first:
+      213: -2275138981385536226
+    second: Terrain OtherColor_2
+  - first:
+      213: 8500539615832418889
+    second: Terrain OtherColor_3
+  - first:
+      213: -6921297957586919623
+    second: Terrain OtherColor_4
+  - first:
+      213: 6254530047378696653
+    second: Terrain OtherColor_5
+  - first:
+      213: 561391465011200116
+    second: Terrain OtherColor_6
+  - first:
+      213: -8406697254533753807
+    second: Terrain OtherColor_7
+  - first:
+      213: -7199227366905216081
+    second: Terrain OtherColor_8
+  - first:
+      213: -9200505447870268565
+    second: Terrain OtherColor_9
+  - first:
+      213: 7322076305184407127
+    second: Terrain OtherColor_10
+  - first:
+      213: 2304693209246174042
+    second: Terrain OtherColor_11
+  - first:
+      213: -7204087706163153820
+    second: Terrain OtherColor_12
+  - first:
+      213: -1651795139611884787
+    second: Terrain OtherColor_13
+  - first:
+      213: -278691682740027968
+    second: Terrain OtherColor_14
+  - first:
+      213: 1239400356452235130
+    second: Terrain OtherColor_15
+  - first:
+      213: -2604276532792332815
+    second: Terrain OtherColor_16
+  - first:
+      213: 312458807953493857
+    second: Terrain OtherColor_17
+  - first:
+      213: 6807834887410829567
+    second: Terrain OtherColor_18
+  - first:
+      213: -8062374491862282368
+    second: Terrain OtherColor_19
+  - first:
+      213: 3528890493303187115
+    second: Terrain OtherColor_20
+  - first:
+      213: -3059778099373798413
+    second: Terrain OtherColor_21
+  - first:
+      213: 1212461575394231256
+    second: Terrain OtherColor_22
+  - first:
+      213: -627412121353233309
+    second: Terrain OtherColor_23
+  - first:
+      213: -4386600267125033396
+    second: Terrain OtherColor_24
+  - first:
+      213: -5796915798325176335
+    second: Terrain OtherColor_25
+  - first:
+      213: -3912319310506847260
+    second: Terrain OtherColor_26
+  - first:
+      213: -7265655503043724864
+    second: Terrain OtherColor_27
+  - first:
+      213: 7670566366265530577
+    second: Terrain OtherColor_28
+  - first:
+      213: -7562855833890071725
+    second: Terrain OtherColor_29
+  - first:
+      213: -1027203010713059844
+    second: Terrain OtherColor_30
+  - first:
+      213: 8948024970654579341
+    second: Terrain OtherColor_31
+  - first:
+      213: 1489966561979272125
+    second: Terrain OtherColor_32
+  - first:
+      213: 3137231787531745967
+    second: Terrain OtherColor_33
+  - first:
+      213: -8211833160289656168
+    second: Terrain OtherColor_34
+  - first:
+      213: -5712117547893040022
+    second: Terrain OtherColor_35
+  - first:
+      213: -3607812481400438138
+    second: Terrain OtherColor_36
+  - first:
+      213: -8782705972518235054
+    second: Terrain OtherColor_37
+  - first:
+      213: 2934023005380470026
+    second: Terrain OtherColor_38
+  - first:
+      213: -6333854900150434577
+    second: Terrain OtherColor_39
+  - first:
+      213: 448400425247874706
+    second: Terrain OtherColor_40
+  - first:
+      213: -3275243981490443055
+    second: Terrain OtherColor_41
+  - first:
+      213: 8190787232746452169
+    second: Terrain OtherColor_42
+  - first:
+      213: 7211640130378890462
+    second: Terrain OtherColor_43
+  - first:
+      213: -9157703630420763812
+    second: Terrain OtherColor_44
+  - first:
+      213: -961961346454981816
+    second: Terrain OtherColor_45
+  - first:
+      213: -7853284096121572959
+    second: Terrain OtherColor_46
+  - first:
+      213: 4312400404510381290
+    second: Terrain OtherColor_47
+  - first:
+      213: 1273341653407550814
+    second: Terrain OtherColor_48
+  - first:
+      213: -2392817548277138275
+    second: Terrain OtherColor_49
+  - first:
+      213: -2778617028683206824
+    second: Terrain OtherColor_50
+  - first:
+      213: -2655391917868764413
+    second: Terrain OtherColor_51
+  - first:
+      213: -7479125935976811634
+    second: Terrain OtherColor_52
+  - first:
+      213: 4609373256070037817
+    second: Terrain OtherColor_53
+  - first:
+      213: -2586568796721501120
+    second: Terrain OtherColor_54
+  - first:
+      213: -8453947049268409841
+    second: Terrain OtherColor_55
+  - first:
+      213: 1297537513971307724
+    second: Terrain OtherColor_56
+  - first:
+      213: -6162423072851656156
+    second: Terrain OtherColor_57
+  - first:
+      213: 3743033106921016871
+    second: Terrain OtherColor_58
+  - first:
+      213: -2104386338902970659
+    second: Terrain OtherColor_59
+  - first:
+      213: -5112573391142546375
+    second: Terrain OtherColor_60
+  - first:
+      213: -1795820029576625448
+    second: Terrain OtherColor_61
+  - first:
+      213: 1920237980366426040
+    second: Terrain OtherColor_62
+  - first:
+      213: 3670649203151050359
+    second: Terrain OtherColor_63
+  - first:
+      213: -8505770241335586132
+    second: Terrain OtherColor_64
+  - first:
+      213: 2332378887911609923
+    second: Terrain OtherColor_65
+  - first:
+      213: 8650204808016709056
+    second: Terrain OtherColor_66
+  - first:
+      213: -1687040870041984865
+    second: Terrain OtherColor_67
+  - first:
+      213: -2335627154150965032
+    second: Terrain OtherColor_68
+  - first:
+      213: 1516489112767872363
+    second: Terrain OtherColor_69
+  - first:
+      213: -4978062804300044231
+    second: Terrain OtherColor_70
+  - first:
+      213: -2984795226014212133
+    second: Terrain OtherColor_71
+  - first:
+      213: 5546373193449082143
+    second: Terrain OtherColor_72
+  - first:
+      213: 599288744636473093
+    second: Terrain OtherColor_73
+  - first:
+      213: -5031308102495705160
+    second: Terrain OtherColor_74
+  - first:
+      213: -7645836996201392113
+    second: Terrain OtherColor_75
+  - first:
+      213: -2433864164935296363
+    second: Terrain OtherColor_76
+  - first:
+      213: -171898718401063013
+    second: Terrain OtherColor_77
+  - first:
+      213: 8111729667673352868
+    second: Terrain OtherColor_78
+  - first:
+      213: 6422305627133415661
+    second: Terrain OtherColor_79
+  - first:
+      213: 4490577982128739316
+    second: Terrain OtherColor_80
+  - first:
+      213: -5373652864316682494
+    second: Terrain OtherColor_81
+  - first:
+      213: 4330589027439632075
+    second: Terrain OtherColor_82
+  - first:
+      213: -98186541397289506
+    second: Terrain OtherColor_83
+  - first:
+      213: -4450135185959843203
+    second: Terrain OtherColor_84
+  - first:
+      213: 5147105562960084413
+    second: Terrain OtherColor_85
+  - first:
+      213: 4669413942002029937
+    second: Terrain OtherColor_86
+  - first:
+      213: 4814306698333100050
+    second: Terrain OtherColor_87
+  - first:
+      213: -2439493395061901236
+    second: Terrain OtherColor_88
+  - first:
+      213: -958484572707487240
+    second: Terrain OtherColor_89
+  - first:
+      213: -2164099782514943632
+    second: Terrain OtherColor_90
+  - first:
+      213: -2952573515383995085
+    second: Terrain OtherColor_91
+  - first:
+      213: 2199659369603326299
+    second: Terrain OtherColor_92
+  - first:
+      213: 199880321471597055
+    second: Terrain OtherColor_93
+  - first:
+      213: -4251786076201136448
+    second: Terrain OtherColor_94
+  - first:
+      213: 2669423204402940295
+    second: Terrain OtherColor_95
+  - first:
+      213: 8101136623062042294
+    second: Terrain OtherColor_96
+  - first:
+      213: -6602429207228929024
+    second: Terrain OtherColor_97
+  - first:
+      213: -882135855810688731
+    second: Terrain OtherColor_98
+  - first:
+      213: -4698980193780803076
+    second: Terrain OtherColor_99
+  - first:
+      213: 4073208785053764753
+    second: Terrain OtherColor_100
+  - first:
+      213: -1025353302821786338
+    second: Terrain OtherColor_101
+  - first:
+      213: 4848739449967454301
+    second: Terrain OtherColor_102
+  - first:
+      213: 7905472914626188415
+    second: Terrain OtherColor_103
+  - first:
+      213: 659209253441606856
+    second: Terrain OtherColor_104
+  - first:
+      213: -8783879390865455135
+    second: Terrain OtherColor_105
+  - first:
+      213: 8458873209573100639
+    second: Terrain OtherColor_106
+  - first:
+      213: -6709957057598121162
+    second: Terrain OtherColor_107
+  - first:
+      213: -888430539704143590
+    second: Terrain OtherColor_108
+  - first:
+      213: 5025502982963295563
+    second: Terrain OtherColor_109
+  - first:
+      213: -2269874673563908859
+    second: Terrain OtherColor_110
+  - first:
+      213: 5572202279650020627
+    second: Terrain OtherColor_111
+  - first:
+      213: 887076134928705881
+    second: Terrain OtherColor_112
+  - first:
+      213: 1336566098824002128
+    second: Terrain OtherColor_113
+  - first:
+      213: -1853593823691101342
+    second: Terrain OtherColor_114
+  - first:
+      213: -7624086060267051353
+    second: Terrain OtherColor_115
+  - first:
+      213: -7334451887362871411
+    second: Terrain OtherColor_116
+  - first:
+      213: -9109574892381171535
+    second: Terrain OtherColor_117
+  - first:
+      213: -7408749269162889848
+    second: Terrain OtherColor_118
+  - first:
+      213: 1754475080533403140
+    second: Terrain OtherColor_119
+  - first:
+      213: -2601648922234025920
+    second: Terrain OtherColor_120
+  - first:
+      213: 938104845199079676
+    second: Terrain OtherColor_121
+  - first:
+      213: -4882016112142395180
+    second: Terrain OtherColor_122
+  - first:
+      213: -2065310451820836425
+    second: Terrain OtherColor_123
+  - first:
+      213: -630842587009148661
+    second: Terrain OtherColor_124
+  - first:
+      213: 2257841387203012591
+    second: Terrain OtherColor_125
+  - first:
+      213: 123380944473887713
+    second: Terrain OtherColor_126
+  - first:
+      213: -5381588241232955704
+    second: Terrain OtherColor_127
+  - first:
+      213: -1692758321659815369
+    second: Terrain OtherColor_128
+  - first:
+      213: -7543174121581684644
+    second: Terrain OtherColor_129
+  - first:
+      213: 5517341972604768479
+    second: Terrain OtherColor_130
+  - first:
+      213: 2552896756094863458
+    second: Terrain OtherColor_131
+  - first:
+      213: 3088115709566474730
+    second: Terrain OtherColor_132
+  - first:
+      213: 3543780134609594465
+    second: Terrain OtherColor_133
+  - first:
+      213: 6992919608073971735
+    second: Terrain OtherColor_134
+  - first:
+      213: 1390752351011864270
+    second: Terrain OtherColor_135
+  - first:
+      213: -3405308068962292727
+    second: Terrain OtherColor_136
+  - first:
+      213: -8386887304816178185
+    second: Terrain OtherColor_137
+  - first:
+      213: -5004602722421817171
+    second: Terrain OtherColor_138
+  - first:
+      213: 7984812028553626756
+    second: Terrain OtherColor_139
+  - first:
+      213: -5979009867231710703
+    second: Terrain OtherColor_140
+  - first:
+      213: -4978406770746851638
+    second: Terrain OtherColor_141
+  - first:
+      213: -4796454521296529648
+    second: Terrain OtherColor_142
+  - first:
+      213: 4655801466026650128
+    second: Terrain OtherColor_143
+  - first:
+      213: 4271241860938211946
+    second: Terrain OtherColor_144
+  - first:
+      213: 6777020447085827728
+    second: Terrain OtherColor_145
+  - first:
+      213: -4439962988938343730
+    second: Terrain OtherColor_146
+  - first:
+      213: -8369926145209638396
+    second: Terrain OtherColor_147
+  - first:
+      213: -4279331391417798611
+    second: Terrain OtherColor_148
+  - first:
+      213: -6893562849645103693
+    second: Terrain OtherColor_149
+  - first:
+      213: 256758263338026061
+    second: Terrain OtherColor_150
+  - first:
+      213: 2712586617090430072
+    second: Terrain OtherColor_151
+  - first:
+      213: 4066129565221597131
+    second: Terrain OtherColor_152
+  - first:
+      213: 801926802763732841
+    second: Terrain OtherColor_153
+  - first:
+      213: -2270788394301511733
+    second: Terrain OtherColor_154
+  - first:
+      213: -7753972122486126063
+    second: Terrain OtherColor_155
+  - first:
+      213: 1948289615463308468
+    second: Terrain OtherColor_156
+  - first:
+      213: -7474217125852477158
+    second: Terrain OtherColor_157
+  - first:
+      213: 964316108064665816
+    second: Terrain OtherColor_158
+  - first:
+      213: 4977364090049399371
+    second: Terrain OtherColor_159
+  - first:
+      213: 198478851757668310
+    second: Terrain OtherColor_160
+  - first:
+      213: -1084204646031920854
+    second: Terrain OtherColor_161
+  - first:
+      213: -3961236178675970780
+    second: Terrain OtherColor_162
+  - first:
+      213: 6062360018217744512
+    second: Terrain OtherColor_163
+  - first:
+      213: -4474957238533845386
+    second: Terrain OtherColor_164
+  - first:
+      213: -1007193077742152398
+    second: Terrain OtherColor_165
+  - first:
+      213: 8491619434612743676
+    second: Terrain OtherColor_166
+  - first:
+      213: 6529422835313018188
+    second: Terrain OtherColor_167
+  - first:
+      213: -5509467872967628236
+    second: Terrain OtherColor_168
+  - first:
+      213: -5992697074959450639
+    second: Terrain OtherColor_169
+  - first:
+      213: -5304001913729888479
+    second: Terrain OtherColor_170
+  - first:
+      213: 4674935827915226955
+    second: Terrain OtherColor_171
+  - first:
+      213: -6301838486492808566
+    second: Terrain OtherColor_172
+  - first:
+      213: -6434642659813662263
+    second: Terrain OtherColor_173
+  - first:
+      213: 3651689719008404287
+    second: Terrain OtherColor_174
+  - first:
+      213: 7498304850121782021
+    second: Terrain OtherColor_175
+  - first:
+      213: -3007845161705295726
+    second: Terrain OtherColor_176
+  - first:
+      213: -6801926278971333142
+    second: Terrain OtherColor_177
+  - first:
+      213: -9007621207245963893
+    second: Terrain OtherColor_178
+  - first:
+      213: 7191927255964365629
+    second: Terrain OtherColor_179
+  - first:
+      213: 1690506646565145823
+    second: Terrain OtherColor_180
+  - first:
+      213: 6334190553708441717
+    second: Terrain OtherColor_181
+  - first:
+      213: 357004521925280456
+    second: Terrain OtherColor_182
+  - first:
+      213: 2485049131364886843
+    second: Terrain OtherColor_183
+  - first:
+      213: -3165087957193138273
+    second: Terrain OtherColor_184
+  - first:
+      213: -747040564724267438
+    second: Terrain OtherColor_185
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Terrain OtherColor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec795af3d047f900800000000000000
+      internalID: 718113944771329257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41efa54fba151c210800000000000000
+      internalID: 1351451162168720916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dfedf86251d60e0800000000000000
+      internalID: -2275138981385536226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94aa3d82ebbf7f570800000000000000
+      internalID: 8500539615832418889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f156d9d2c92ff90800000000000000
+      internalID: -6921297957586919623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9a30fa0fd8cc650800000000000000
+      internalID: 6254530047378696653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470cde320967ac700800000000000000
+      internalID: 561391465011200116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13493493369655b80800000000000000
+      internalID: -8406697254533753807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3085a5ad4371c90800000000000000
+      internalID: -7199227366905216081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b75a1aa0d315080800000000000000
+      internalID: -9200505447870268565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e32d40b9d3d9560800000000000000
+      internalID: 7322076305184407127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b8f55534aebff10800000000000000
+      internalID: 2304693209246174042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464f26f6660f50c90800000000000000
+      internalID: -7204087706163153820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0387b57215a319e0800000000000000
+      internalID: -1651795139611884787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdbc602463e12cf0800000000000000
+      internalID: -278691682740027968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77f3dcbe0c333110800000000000000
+      internalID: 1239400356452235130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fde60e9a40cbdbd0800000000000000
+      internalID: -2604276532792332815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f820f51a3165400800000000000000
+      internalID: 312458807953493857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 158.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff842a9b2c94a7e50800000000000000
+      internalID: 6807834887410829567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fc06ead11bc1090800000000000000
+      internalID: -8062374491862282368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6e690f43329f030800000000000000
+      internalID: 3528890493303187115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb0e4fa70c7985d0800000000000000
+      internalID: -3059778099373798413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d30f21016783d010800000000000000
+      internalID: 1212461575394231256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c57f2fffbfa47f0800000000000000
+      internalID: -627412121353233309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46f06a5c4aaf13c0800000000000000
+      internalID: -4386600267125033396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f75af77bc73d8fa0800000000000000
+      internalID: -5796915798325176335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e39651c056a4b9c0800000000000000
+      internalID: -3912319310506847260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c977b8a0d43b2b90800000000000000
+      internalID: -7265655503043724864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d05f3873537a60800000000000000
+      internalID: 7670566366265530577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bdd7550b65b0790800000000000000
+      internalID: -7562855833890071725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd7c3add44aeb1f0800000000000000
+      internalID: -1027203010713059844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8af0395d45cd2c70800000000000000
+      internalID: 8948024970654579341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb0cf5a1bc6da410800000000000000
+      internalID: 1489966561979272125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faab4e160bfa98b20800000000000000
+      internalID: 3137231787531745967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8926926bf35b90e80800000000000000
+      internalID: -8211833160289656168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c5f82ba5b7ab0b0800000000000000
+      internalID: -5712117547893040022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68208e5c9a97eedc0800000000000000
+      internalID: -3607812481400438138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 141.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2545955637f8d1680800000000000000
+      internalID: -8782705972518235054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05e686d06eb7b820800000000000000
+      internalID: 2934023005380470026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe48aa9c680a918a0800000000000000
+      internalID: -6333854900150434577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e9800afc9093600800000000000000
+      internalID: 448400425247874706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dca68aa3fefb82d0800000000000000
+      internalID: -3275243981490443055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c438ae67958ba170800000000000000
+      internalID: 8190787232746452169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_43
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc7f2b5d74e41460800000000000000
+      internalID: 7211640130378890462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b1776511d49e080800000000000000
+      internalID: -9157703630420763812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f4e8804d66a2f0800000000000000
+      internalID: -961961346454981816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1f27a19b7830390800000000000000
+      internalID: -7853284096121572959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_47
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae49710e159b8db30800000000000000
+      internalID: 4312400404510381290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc011cc71dba110800000000000000
+      internalID: 1273341653407550814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cbe961e110bced0800000000000000
+      internalID: -2392817548277138275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f6c7eb88e5079d0800000000000000
+      internalID: -2778617028683206824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_51
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 124.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3033dfb9e17262bd0800000000000000
+      internalID: -2655391917868764413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83f0bb569ec43890800000000000000
+      internalID: -7479125935976811634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9318d3d0e88c7ff30800000000000000
+      internalID: 4609373256070037817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_54
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c2e443269aa1cd0800000000000000
+      internalID: -2586568796721501120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_55
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a056a13fb8daa80800000000000000
+      internalID: -8453947049268409841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_56
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4d00b8e77c10210800000000000000
+      internalID: 1297537513971307724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_57
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422810b7ddcaa7aa0800000000000000
+      internalID: -6162423072851656156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ecd8087cce1f330800000000000000
+      internalID: 3743033106921016871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_59
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddee08736c7bbc2e0800000000000000
+      internalID: -2104386338902970659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93495dc969d7c09b0800000000000000
+      internalID: -5112573391142546375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_61
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2cd80a237f317e0800000000000000
+      internalID: -1795820029576625448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf44ffe44e06aa10800000000000000
+      internalID: 1920237980366426040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_63
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77693e89004c0f230800000000000000
+      internalID: 3670649203151050359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca29a10f70f65f980800000000000000
+      internalID: -8505770241335586132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_65
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3469797bd364e5020800000000000000
+      internalID: 2332378887911609923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_66
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c546303173bb0870800000000000000
+      internalID: 8650204808016709056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_67
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90e49b544d6698e0800000000000000
+      internalID: -1687040870041984865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_68
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0431d5a7f269fd0800000000000000
+      internalID: -2335627154150965032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_69
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6db64830d6ab0510800000000000000
+      internalID: 1516489112767872363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_70
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9386c10214e5aeab0800000000000000
+      internalID: -4978062804300044231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_71
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 107.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf142a5e80e396d0800000000000000
+      internalID: -2984795226014212133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d0843980da8fc40800000000000000
+      internalID: 5546373193449082143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f52f520f9115800800000000000000
+      internalID: 599288744636473093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7e23310f33d2ab0800000000000000
+      internalID: -5031308102495705160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0850e6e2c784e590800000000000000
+      internalID: -7645836996201392113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a9a79ef6d293ed0800000000000000
+      internalID: -2433864164935296363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_77
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b971c50c60b4d9df0800000000000000
+      internalID: -171898718401063013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaeaaba727a29070800000000000000
+      internalID: 8111729667673352868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_79
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de09748e0fc902950800000000000000
+      internalID: 6422305627133415661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f359f4f1ecb15e30800000000000000
+      internalID: 4490577982128739316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fc424d033fc65b0800000000000000
+      internalID: -5373652864316682494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce5eb8a6c7591c30800000000000000
+      internalID: 4330589027439632075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_83
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed55a4e5cdb23aef0800000000000000
+      internalID: -98186541397289506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_84
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a856e40a1fd32c0800000000000000
+      internalID: -4450135185959843203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_85
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd3cad2d313e6740800000000000000
+      internalID: 5147105562960084413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_86
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175994a9d371dc040800000000000000
+      internalID: 4669413942002029937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_87
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2189de15f6adfc240800000000000000
+      internalID: 4814306698333100050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_88
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c487c63aead252ed0800000000000000
+      internalID: -2439493395061901236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_89
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f104110c57c2b2f0800000000000000
+      internalID: -958484572707487240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_90
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07952b4b6b297f1e0800000000000000
+      internalID: -2164099782514943632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_91
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 90.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3358f4af70a5607d0800000000000000
+      internalID: -2952573515383995085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51e018da82c68e10800000000000000
+      internalID: 2199659369603326299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_93
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9c7e6e71e16c200800000000000000
+      internalID: 199880321471597055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_94
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4413371f9ef4c0800000000000000
+      internalID: -4251786076201136448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_95
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7894f9dd242bb0520800000000000000
+      internalID: 2669423204402940295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6458646d40d6070800000000000000
+      internalID: 8101136623062042294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_97
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca4700e957f54a0800000000000000
+      internalID: -6602429207228929024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_98
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529c4c6ec1602c3f0800000000000000
+      internalID: -882135855810688731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_99
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf95917f86ed9ceb0800000000000000
+      internalID: -4698980193780803076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_100
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c41292fc1f68830800000000000000
+      internalID: 4073208785053764753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_101
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1da8088a9635c1f0800000000000000
+      internalID: -1025353302821786338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_102
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58abbb07de2a4340800000000000000
+      internalID: 4848739449967454301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_103
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7414c91bb1e5bd60800000000000000
+      internalID: 7905472914626188415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_104
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c49908c25bf52900800000000000000
+      internalID: 659209253441606856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_105
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e70795ab34691680800000000000000
+      internalID: -8783879390865455135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_106
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c4ca8fd54f36570800000000000000
+      internalID: 8458873209573100639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b1db36b9171e2a0800000000000000
+      internalID: -6709957057598121162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_108
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1173599129aba3f0800000000000000
+      internalID: -888430539704143590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_109
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b457135365c2eb540800000000000000
+      internalID: 5025502982963295563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_110
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505419db209cf70e0800000000000000
+      internalID: -2269874673563908859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_111
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 73.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d49275370745d40800000000000000
+      internalID: 5572202279650020627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959e6277b078f4c00800000000000000
+      internalID: 887076134928705881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_113
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05afb3319cf6c8210800000000000000
+      internalID: 1336566098824002128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_114
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ba805fc36b646e0800000000000000
+      internalID: -1853593823691101342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a666c05f1ec13690800000000000000
+      internalID: -7624086060267051353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_116
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fea873edac63a90800000000000000
+      internalID: -7334451887362871411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_117
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b09dc466e9449180800000000000000
+      internalID: -9109574892381171535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_118
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d6c9dfac5de2990800000000000000
+      internalID: -7408749269162889848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_119
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e7764ac5295810800000000000000
+      internalID: 1754475080533403140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_120
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04886ffd61615ebd0800000000000000
+      internalID: -2601648922234025920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_121
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8f92ce261d40d00800000000000000
+      internalID: 938104845199079676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_122
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8d40846389f3cb0800000000000000
+      internalID: -4882016112142395180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b94158261b8653e0800000000000000
+      internalID: -2065310451820836425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_124
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09912c620cce37f0800000000000000
+      internalID: -630842587009148661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_125
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 56.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7296377c6755f10800000000000000
+      internalID: 2257841387203012591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e31b67b05656b100800000000000000
+      internalID: 123380944473887713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_127
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6f3e9e102c055b0800000000000000
+      internalID: -5381588241232955704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_128
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a51ea664d1288e0800000000000000
+      internalID: -1692758321659815369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_129
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5854341a13415790800000000000000
+      internalID: -7543174121581684644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_130
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0d57dba49819c40800000000000000
+      internalID: 5517341972604768479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_131
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680847e216bd6320800000000000000
+      internalID: 2552896756094863458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_132
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9530650e03bda20800000000000000
+      internalID: 3088115709566474730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_133
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168ad75b1490e2130800000000000000
+      internalID: 3543780134609594465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_134
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718ec1e5557db0160800000000000000
+      internalID: 6992919608073971735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_135
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef99c05e1fc4310800000000000000
+      internalID: 1390752351011864270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_136
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c2bb67a5aedb0d0800000000000000
+      internalID: -3405308068962292727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_137
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbc2319e6acb9b80800000000000000
+      internalID: -8386887304816178185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_138
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04818e6541c8ab0800000000000000
+      internalID: -5004602722421817171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_139
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48484301c30cfce60800000000000000
+      internalID: 7984812028553626756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_140
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123913343a460da0800000000000000
+      internalID: -5979009867231710703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_141
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acefb323b6529eab0800000000000000
+      internalID: -4978406770746851638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_142
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017ddcc86029f6db0800000000000000
+      internalID: -4796454521296529648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_143
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ae24f04cabc9040800000000000000
+      internalID: 4655801466026650128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_144
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62200fa7df764b30800000000000000
+      internalID: 4271241860938211946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_145
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 39.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961c10c030dc0e50800000000000000
+      internalID: 6777020447085827728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecac27c7f251262c0800000000000000
+      internalID: -4439962988938343730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_147
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026686448c08db80800000000000000
+      internalID: -8369926145209638396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_148
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d203d5ab5c2cc94c0800000000000000
+      internalID: -4279331391417798611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_149
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5f216ac152550a0800000000000000
+      internalID: -6893562849645103693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_150
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c867b740309300800000000000000
+      internalID: 256758263338026061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_151
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745726082b05a520800000000000000
+      internalID: 2712586617090430072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_152
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf2fb9db4bcd6830800000000000000
+      internalID: 4066129565221597131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_153
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967d896ad24012b00800000000000000
+      internalID: 801926802763732841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_154
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7249d8cf98c70e0800000000000000
+      internalID: -2270788394301511733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_155
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11acee8df6b546490800000000000000
+      internalID: -7753972122486126063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_156
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcd5413517b90b10800000000000000
+      internalID: 1948289615463308468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_157
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a190c67cf1f364890800000000000000
+      internalID: -7474217125852477158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_158
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0b1602460f16d00800000000000000
+      internalID: 964316108064665816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_159
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a0e29c446231540800000000000000
+      internalID: 4977364090049399371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_160
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7717ec67321c200800000000000000
+      internalID: 198478851757668310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_161
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2170796e9124f0f0800000000000000
+      internalID: -1084204646031920854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_162
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42dc79adeacd609c0800000000000000
+      internalID: -3961236178675970780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_163
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088366a1154d12450800000000000000
+      internalID: 6062360018217744512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_164
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e8024d912c5e1c0800000000000000
+      internalID: -4474957238533845386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_165
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 22.4
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23552fc6b3bb502f0800000000000000
+      internalID: -1007193077742152398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd55ef92ea48d570800000000000000
+      internalID: 8491619434612743676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_167
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45082f697b2d9a50800000000000000
+      internalID: 6529422835313018188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_168
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a6652f8207a83b0800000000000000
+      internalID: -5509467872967628236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_169
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdf480d2c9a5dca0800000000000000
+      internalID: -5992697074959450639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_170
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f432c7c566466b0800000000000000
+      internalID: -5304001913729888479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_171
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f32aadd55b0e040800000000000000
+      internalID: 4674935827915226955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_172
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8af5bcf84f5b88a0800000000000000
+      internalID: -6301838486492808566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_173
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c16b35d79e83b6a0800000000000000
+      internalID: -6434642659813662263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_174
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f332173b3786da230800000000000000
+      internalID: 3651689719008404287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_175
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503f81198845f0860800000000000000
+      internalID: 7498304850121782021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_176
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290bd2df2ccf146d0800000000000000
+      internalID: -3007845161705295726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_177
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5e4816614ba91a0800000000000000
+      internalID: -6801926278971333142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_178
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d34d68c308ef280800000000000000
+      internalID: -9007621207245963893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_179
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33b43e1cbbdec360800000000000000
+      internalID: 7191927255964365629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_180
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcc3fe96d2e57710800000000000000
+      internalID: 1690506646565145823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_181
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5703d65afb097e750800000000000000
+      internalID: 6334190553708441717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_182
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28090a8b554f400800000000000000
+      internalID: 357004521925280456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_183
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39a564c40bac7220800000000000000
+      internalID: 2485049131364886843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_184
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fd2a4b5495314d0800000000000000
+      internalID: -3165087957193138273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain OtherColor_185
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 5.3999996
+        width: 17.6
+        height: 17.6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2568dca709af1a5f0800000000000000
+      internalID: -747040564724267438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
